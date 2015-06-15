@@ -1,0 +1,24 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="notifications"
+        android:title="@string/notif_pref"
+        android:summary="@string/notif_pref_sum" />
+
+    <ListPreference
+        android:title="@string/src_pref"
+        android:key="src_array"
+        android:entries="@array/src_arr"
+        android:entryValues="@array/src_arr" />
+
+    <CheckBoxPreference
+        android:key="save_audio"
+        android:title="@string/save_pref" />
+
+    <CheckBoxPreference
+        android:key="wifi_only"
+        android:title="@string/wifi_pref"
+        android:summary="@string/wifi_pref_sum" />
+
+</PreferenceScreen>
