@@ -1,4 +1,8 @@
 /**
+ This file was modified as a part of CallRec.
+ */
+
+/**
  * Android Speech Diarization - Calculates the amount of time spent speaking
  * 								by each speaker in a conversation
  * 
@@ -19,6 +23,7 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * 
  */
+
 
 package com.artem.callrec;
 

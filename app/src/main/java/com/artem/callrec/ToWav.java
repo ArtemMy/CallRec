@@ -1,5 +1,8 @@
 package com.artem.callrec;
 
+/**
+ This file was modified as a part of CallRec.
+ */
 /*
  * Copyright (C) 2009 The Android Open Source Project
  *
